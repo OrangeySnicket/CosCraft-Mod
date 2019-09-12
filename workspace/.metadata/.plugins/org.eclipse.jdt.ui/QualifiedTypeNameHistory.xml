@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="Investiture.InvestitureMod"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="investiture.Investiture"/>
 <fullyQualifiedTypeName name="init.ModItems"/>
 </qualifiedTypeNameHistroy>
