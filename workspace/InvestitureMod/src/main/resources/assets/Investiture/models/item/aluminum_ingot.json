@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "Investiture:items/aluminum_ingot"
+        "layer0": "investiture:items/aluminum_ingot"
     }
 }

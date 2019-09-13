@@ -13,7 +13,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 public class Investiture {
 
-	public static final String MODID = "Investiture";
+	public static final String MODID = "investiture";
 	public static final String NAME = "Investiture";
 	public static final String VERSION = "0.0.1";
 	public static final String MC_VERSION = "[1.12.2]";

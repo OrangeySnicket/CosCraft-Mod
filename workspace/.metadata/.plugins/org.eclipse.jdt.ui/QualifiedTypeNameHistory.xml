@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="init.ModItems"/>
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.GameRegistry"/>
 <fullyQualifiedTypeName name="investiture.Investiture"/>
-<fullyQualifiedTypeName name="init.ModItems"/>
+<fullyQualifiedTypeName name="block.AluminumBlock"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="item.AluminumIngot"/>
+<fullyQualifiedTypeName name="init.ModBlocks"/>
 </qualifiedTypeNameHistroy>

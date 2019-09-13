@@ -1,0 +1,10 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "investiture:chiseled_pewter"
+    },
+    "variants": {
+        "normal": [{}],
+        "inventory": [{}]
+    }
+}

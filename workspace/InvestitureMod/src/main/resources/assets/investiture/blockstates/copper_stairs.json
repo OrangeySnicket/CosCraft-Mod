@@ -1,0 +1,10 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "investiture:copper_stairs"
+    },
+    "variants": {
+        "normal": [{}],
+        "inventory": [{}]
+    }
+}

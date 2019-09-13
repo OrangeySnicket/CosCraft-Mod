@@ -1,0 +1,13 @@
+package init;
+
+import investiture.Investiture;
+import block.AluminumBlock;
+import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
+
+@ObjectHolder(Investiture.MODID)
+
+public class ModBlocks {
+
+	public static final AluminumBlock ALUMINUM_BLOCK = null;
+	
+}

@@ -1,0 +1,7 @@
+package investiture;
+
+import investiture.Investiture;
+
+public class EventSubscriber {
+
+}
