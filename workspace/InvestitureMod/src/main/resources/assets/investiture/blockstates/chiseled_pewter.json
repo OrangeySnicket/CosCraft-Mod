@@ -1,10 +1,13 @@
 {
-    "forge_marker": 1,
-    "defaults": {
-        "model": "investiture:chiseled_pewter"
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "investiture:blocks/chiseled_pewter"
     },
-    "variants": {
-        "normal": [{}],
-        "inventory": [{}]
-    }
+    "model": "cube_all",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{}]
+  }
 }

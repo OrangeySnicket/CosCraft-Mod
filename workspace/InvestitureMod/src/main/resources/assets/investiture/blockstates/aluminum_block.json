@@ -1,10 +1,13 @@
 {
-    "forge_marker": 1,
-    "defaults": {
-        "model": "investiture:aluminum_block"
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "investiture:blocks/aluminum_block"
     },
-    "variants": {
-        "normal": [{}],
-        "inventory": [{}]
-    }
+    "model": "cube_all",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{}]
+  }
 }

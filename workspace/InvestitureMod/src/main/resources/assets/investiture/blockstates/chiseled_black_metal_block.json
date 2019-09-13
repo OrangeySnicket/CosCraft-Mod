@@ -1,10 +1,13 @@
 {
-    "forge_marker": 1,
-    "defaults": {
-        "model": "investiture:chiseled_black_metal_block"
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "investiture:blocks/chiseled_black_metal_block"
     },
-    "variants": {
-        "normal": [{}],
-        "inventory": [{}]
-    }
+    "model": "cube_all",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{}]
+  }
 }

@@ -1,10 +1,13 @@
 {
-    "forge_marker": 1,
-    "defaults": {
-        "model": "investiture:iron_roofing"
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "investiture:blocks/iron_roofing"
     },
-    "variants": {
-        "normal": [{}],
-        "inventory": [{}]
-    }
+    "model": "cube_all",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{}]
+  }
 }
