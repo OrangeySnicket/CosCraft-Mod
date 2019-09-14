@@ -18,10 +18,10 @@ item.investiture.investiture.tin_ingot.name=Tin Ingot
 item.investiture.investiture.zinc_ingot.name=Zinc Ingot
 
 tile.investiture.aluminum_block.name=Aluminum Block
-tile.investiture.ash_block.name=Aluminum Block
-tile.investiture.ash_tiles.name=Aluminum Block
-tile.investiture.atium_block.name=Aluminum Block
-tile.investiture.black_metal_block.name=Aluminum Block
+tile.investiture.ash_block.name=Ash Block
+tile.investiture.ash_tiles.name=Ash Tiles
+tile.investiture.atium_block.name=Atium Block
+tile.investiture.black_metal_block.name=Black Metal Block
 tile.investiture.brass_block.name=Brass Block
 tile.investiture.bronze_block.name=Bronze Block
 tile.investiture.bronze_stairs.name=Bronze Stairs
