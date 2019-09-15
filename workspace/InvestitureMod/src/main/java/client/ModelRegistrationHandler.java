@@ -62,6 +62,7 @@ public class ModelRegistrationHandler {
 		registerModel(Item.getItemFromBlock(ModBlocks.LEAD_BLOCK), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.LERASIUM_BLOCK), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.PEWTER_BLOCK), 0);
+		registerModel(Item.getItemFromBlock(ModBlocks.PEWTER_STAIRS), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.SILVER_BLOCK), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.STEEL_BLOCK), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.TILES), 0);

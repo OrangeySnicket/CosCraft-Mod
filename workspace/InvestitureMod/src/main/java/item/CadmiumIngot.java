@@ -10,7 +10,7 @@ public class CadmiumIngot extends Item {
 	public CadmiumIngot(String registryName, String unlocalizedName) {
 		setTranslationKey(Investiture.MODID + "." + unlocalizedName);
 		setRegistryName(registryName);
-		setCreativeTab(CreativeTabs.MISC);
+		setCreativeTab(Investiture.INVESTITURE_TAB);
 	}
 }
 

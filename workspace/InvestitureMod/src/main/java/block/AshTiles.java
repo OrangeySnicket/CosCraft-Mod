@@ -1,5 +1,6 @@
 package block;
 
+import investiture.Investiture;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockSlab;
 import net.minecraft.block.SoundType;
@@ -10,7 +11,7 @@ public class AshTiles extends Block{
 	
 	public AshTiles() {
 		super(Material.ROCK);
-		setCreativeTab(CreativeTabs.MISC);
+		setCreativeTab(Investiture.INVESTITURE_TAB);
 		setSoundType(SoundType.STONE);
 	}
 	

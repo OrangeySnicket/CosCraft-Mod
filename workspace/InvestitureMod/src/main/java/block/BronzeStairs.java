@@ -1,5 +1,6 @@
 package block;
 
+import investiture.Investiture;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockStairs;
 import net.minecraft.block.SoundType;
@@ -10,7 +11,7 @@ public class BronzeStairs extends Block{
 	
 	public BronzeStairs() {
 		super(Material.IRON);
-		setCreativeTab(CreativeTabs.MISC);
+		setCreativeTab(Investiture.INVESTITURE_TAB);
 		setSoundType(SoundType.METAL);
 	}
 	

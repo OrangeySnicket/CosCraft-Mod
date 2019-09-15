@@ -1,0 +1,14 @@
+package item;
+
+import investiture.Investiture;
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.ItemSword;
+
+
+public class GlassDagger extends ItemSword {
+
+	public GlassDagger(ToolMaterial material) {
+		super(material);
+		setCreativeTab(Investiture.INVESTITURE_TAB);
+	}
+}

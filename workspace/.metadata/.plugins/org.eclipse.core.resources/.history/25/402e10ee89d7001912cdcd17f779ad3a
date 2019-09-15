@@ -1,0 +1,13 @@
+package item;
+
+import investiture.Investiture;
+import net.minecraft.item.ItemSword;
+
+public class ObsidianDagger extends ItemSword {
+
+	public ObsidianDagger(ToolMaterial material) {
+		super(material);
+		setCreativeTab(Investiture.INVESTITURE_TAB);
+	}
+
+}

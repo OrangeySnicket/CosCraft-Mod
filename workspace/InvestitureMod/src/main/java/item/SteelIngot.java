@@ -10,6 +10,6 @@ public class SteelIngot extends Item {
 	public SteelIngot(String registryName, String unlocalizedName) {
 		setTranslationKey(Investiture.MODID + "." + unlocalizedName);
 		setRegistryName(registryName);
-		setCreativeTab(CreativeTabs.MISC);
+		setCreativeTab(Investiture.INVESTITURE_TAB);
 	}
 }

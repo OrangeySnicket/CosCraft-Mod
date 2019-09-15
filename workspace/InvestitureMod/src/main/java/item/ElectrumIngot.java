@@ -10,6 +10,6 @@ public class ElectrumIngot extends Item {
 	public ElectrumIngot(String registryName, String unlocalizedName) {
 		setTranslationKey(Investiture.MODID + "." + unlocalizedName);
 		setRegistryName(registryName);
-		setCreativeTab(CreativeTabs.MISC);
+		setCreativeTab(Investiture.INVESTITURE_TAB);
 	}
 }

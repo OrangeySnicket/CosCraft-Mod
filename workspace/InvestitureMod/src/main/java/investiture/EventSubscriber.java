@@ -4,6 +4,7 @@ import investiture.Investiture;
 import block.*;
 import init.ModBlocks;
 import item.*;
+import material.InvestitureMaterials;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -71,10 +72,10 @@ public final class EventSubscriber {
 				new CopperIngot("copper_ingot", Investiture.MODID + "." + "copper_ingot"),
 				new DuraluminIngot("duralumin_ingot", Investiture.MODID + "." + "duralumin_ingot"),
 				new ElectrumIngot("electrum_ingot", Investiture.MODID + "." + "electrum_ingot"),
-				new GlassDagger("glass_dagger", Investiture.MODID + "." + "glass_dagger"),
+				new GlassDagger(material.InvestitureMaterials.MATERIAL_GLASS, "glass_dagger", Investiture.MODID + "." + "glass_dagger"),
 				new LerasiumBead("lerasium_bead", Investiture.MODID + "." + "lerasium_bead"),
 				new NicrosilIngot("nicrosil_ingot", Investiture.MODID + "." + "nicrosil_ingot"),
-				new ObsidianDagger("obsidian_dagger", Investiture.MODID + "." + "obsidian_dagger"),
+				new ObsidianDagger(material.InvestitureMaterials.MATERIAL_OBSIDIAN, "obsidian_dagger", Investiture.MODID + "." + "obsidian_dagger"),
 				new PewterIngot("pewter_ingot", Investiture.MODID + "." + "pewter_ingot"),
 				new SteelIngot("steel_ingot", Investiture.MODID + "." + "steel_ingot"),
 				new TinIngot("tin_ingot", Investiture.MODID + "." + "tin_ingot"),

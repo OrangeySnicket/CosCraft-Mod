@@ -1,15 +1,15 @@
 package item;
 
 import investiture.Investiture;
-import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.Item;
+import net.minecraft.item.ItemSword;
 
+public class ObsidianDagger extends ItemSword {
 
-public class ObsidianDagger extends Item {
-
-	public ObsidianDagger(String registryName, String unlocalizedName) {
+	public ObsidianDagger(ToolMaterial material, String registryName, String unlocalizedName) {
+		super(material);
 		setTranslationKey(Investiture.MODID + "." + unlocalizedName);
 		setRegistryName(registryName);
-		setCreativeTab(CreativeTabs.MISC);
+		setCreativeTab(Investiture.INVESTITURE_TAB);
 	}
+
 }
