@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "investiture:blocks/bronze_stairs",
-        "top": "investiture:blocks/bronze_stairs",
-        "side": "investiture:blocks/bronze_stairs"
-    }
-}
