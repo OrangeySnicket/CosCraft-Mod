@@ -74,6 +74,7 @@ public final class EventSubscriber {
 				new LerasiumBead("lerasium_bead", "lerasium_bead"),
 				new NicrosilIngot("nicrosil_ingot", "nicrosil_ingot"),
 				new ObsidianDagger(InvestitureMaterials.MATERIAL_OBSIDIAN, "obsidian_dagger", "obsidian_dagger"),
+				new ObsidianAxe(InvestitureMaterials.MATERIAL_OBSIDIAN, "obsidian_axe", "obsidian_axe"),
 				new PewterIngot("pewter_ingot", "pewter_ingot"),
 				new SteelIngot("steel_ingot", "steel_ingot"),
 				new TinIngot("tin_ingot", "tin_ingot"),

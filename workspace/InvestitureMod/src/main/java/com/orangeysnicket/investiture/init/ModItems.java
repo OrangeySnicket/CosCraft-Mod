@@ -21,6 +21,7 @@ public class ModItems {
 	public static final Item LERASIUM_BEAD = null;
 	public static final Item NICROSIL_INGOT = null;
 	public static final Item OBSIDIAN_DAGGER = null;
+	public static final Item OBSIDIAN_AXE = null;
 	public static final Item PEWTER_INGOT = null;
 	public static final Item STEEL_INGOT = null;
 	public static final Item TIN_INGOT = null;

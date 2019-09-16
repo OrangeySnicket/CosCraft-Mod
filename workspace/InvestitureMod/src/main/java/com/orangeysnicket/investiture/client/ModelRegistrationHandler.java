@@ -30,6 +30,7 @@ public class ModelRegistrationHandler {
 		registerModel(ModItems.LERASIUM_BEAD, 0);
 		registerModel(ModItems.NICROSIL_INGOT, 0);
 		registerModel(ModItems.OBSIDIAN_DAGGER, 0);
+		registerModel(ModItems.OBSIDIAN_AXE, 0);
 		registerModel(ModItems.PEWTER_INGOT, 0);
 		registerModel(ModItems.STEEL_INGOT, 0);
 		registerModel(ModItems.TIN_INGOT, 0);
