@@ -2,7 +2,7 @@ package com.orangeysnicket.investiture.client;
 
 import com.orangeysnicket.investiture.init.ModBlocks;
 import com.orangeysnicket.investiture.init.ModItems;
-import com.orangeysnicket.investiture.investiture.Investiture;
+import com.orangeysnicket.investiture.Investiture;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;

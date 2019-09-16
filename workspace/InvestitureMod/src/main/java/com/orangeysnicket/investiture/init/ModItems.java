@@ -1,6 +1,6 @@
 package com.orangeysnicket.investiture.init;
 
-import com.orangeysnicket.investiture.investiture.Investiture;
+import com.orangeysnicket.investiture.Investiture;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
 

@@ -1,6 +1,6 @@
 package com.orangeysnicket.investiture.material;
 
-import com.orangeysnicket.investiture.investiture.Investiture;
+import com.orangeysnicket.investiture.Investiture;
 
 import net.minecraft.item.Item.ToolMaterial;
 import net.minecraftforge.common.util.EnumHelper;

@@ -1,11 +1,9 @@
-package com.orangeysnicket.investiture.investiture;
+package com.orangeysnicket.investiture;
 
 import com.orangeysnicket.investiture.block.*;
 import com.orangeysnicket.investiture.item.*;
 import com.orangeysnicket.investiture.material.InvestitureMaterials;
-import com.orangeysnicket.investiture.block.*;
 import com.orangeysnicket.investiture.init.ModBlocks;
-import com.orangeysnicket.investiture.item.*;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;

@@ -1,15 +1,14 @@
 package com.orangeysnicket.investiture.init;
 
 import com.orangeysnicket.investiture.block.*;
-import com.orangeysnicket.investiture.investiture.Investiture;
-import com.orangeysnicket.investiture.block.*;
+import com.orangeysnicket.investiture.Investiture;
 import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
 
 @ObjectHolder(Investiture.MODID)
 
 public class ModBlocks {
 
-	public static final AluminumBlock ALUMINUM_BLOCK = new AluminumBlock();
+	public static final AluminumBlock ALUMINUM_BLOCK = null;
 	public static final AshBlock ASH_BLOCK = null;
 	public static final AshTiles ASH_TILES = null;
 	public static final AtiumBlock ATIUM_BLOCK = null;

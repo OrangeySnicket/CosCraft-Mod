@@ -1,5 +1,7 @@
-package com.orangeysnicket.investiture.investiture;
+package com.orangeysnicket.investiture;
 
+import com.orangeysnicket.investiture.tabs.DecoTab;
+import com.orangeysnicket.investiture.tabs.MetalTab;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -17,7 +19,9 @@ public class Investiture {
 	public static final String NAME = "Investiture";
 	public static final String VERSION = "0.0.4";
 	public static final String MC_VERSION = "[1.12.2]";
-	public static final CreativeTabs INVESTITURE_TAB = new InvestitureTab();
+	public static final CreativeTabs investitureTab = new InvestitureTab();
+	public static final CreativeTabs metalTab = new MetalTab();
+	public static final CreativeTabs decoTab = new DecoTab();
 
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event) {

@@ -53,4 +53,6 @@ tile.investiture.tin_stairs.name=Tin Stairs
 tile.investiture.zinc_block.name=Zinc Block
 
 
-itemGroup.investiture=Investiture
+itemGroup.investiture.investiture=Investiture
+itemGroup.investiture.metals=Metals
+itemGroup.investiture.decor=Decoration Blocks
