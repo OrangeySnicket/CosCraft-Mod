@@ -1,13 +1,6 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "textures": {
-      "all": "investiture:blocks/ash_tiles"
-    },
-    "model": "cube_all",
-    "uvlock": true
-  },
-  "variants": {
-    "normal": [{}]
-  }
+    "variants": {
+        "half=bottom,variant=default": { "model": "investiture:ash_tiles_bottom" },
+        "half=top,variant=default": { "model": "investiture:ash_tiles_top" }
+    }
 }

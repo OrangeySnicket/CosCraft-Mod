@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": { "model": "investiture:ash_tiles_double" }
+    }
+}

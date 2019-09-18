@@ -6,7 +6,7 @@ Build: 1.12.2-14.23.5.2846 - Tue Sep 03 21:22:46 GMT 2019
 =========
 Build: 1.12.2-14.23.5.2844 - Thu Aug 29 02:33:00 GMT 2019
 	Barteks2x:
-		Fix com.thedysian.com.thedysian.investiture.investiture.client sometimes generating biomes, causing incorrect biome
+		Fix client sometimes generating biomes, causing incorrect biome
 		generation on integrated server (#5720)
 
 	bs2609:
@@ -72,7 +72,7 @@ Build 2831:
 	lclc98: Added Wool to OreDictionary (#5414)
 
 Build 2830:
-	CreativeMD: Fixed boat not taking care of com.thedysian.com.thedysian.investiture.investiture.block-liquid hooks (#5086)
+	CreativeMD: Fixed boat not taking care of block-liquid hooks (#5086)
 
 Build 2829:
 	bs2609: Add Forge dimension-changing hooks to spectator handling code (#5212)
@@ -102,7 +102,7 @@ Build 2823:
 		writeEntry (#5257)
 
 Build 2822:
-	tterrag: Fix com.thedysian.com.thedysian.investiture.investiture.block placement not checking for player collision
+	tterrag: Fix block placement not checking for player collision
 
 Build 2821:
 	wynprice999: Added more Constants (#5323)
@@ -157,10 +157,10 @@ Build 2808:
 	tterrag1098: Add default impl to IConfigElement#getValidValuesDisplay
 
 Build 2807:
-	tterrag: Simplify custom com.thedysian.investiture.item rendering by removing GL emissivity hacks
+	tterrag: Simplify custom item rendering by removing GL emissivity hacks
 
 Build 2806:
-	tterrag: Support diffuse lighting flag in com.thedysian.investiture.item rendering
+	tterrag: Support diffuse lighting flag in item rendering
 
 Build 2805:
 	bs2609:
@@ -173,7 +173,7 @@ Build 2805:
 Build 2804:
 	oOMitchOo:
 		Added an additional constructor to every implementation of IFluidBlock.
-		It is now possible to create a fluid com.thedysian.com.thedysian.investiture.investiture.block with a Fluid, Material and
+		It is now possible to create a fluid block with a Fluid, Material and
 		MapColor, so that the Material's MapColor isn't used for the blocks
 		MapColor. (#5293)
 
@@ -186,7 +186,7 @@ Build 2802:
 		slider control (#5026)
 
 Build 2801:
-	bs2609: Fix small logic error in emissive com.thedysian.investiture.item rendering code (#5320)
+	bs2609: Fix small logic error in emissive item rendering code (#5320)
 
 Build 2800:
 	molecularphylo:
@@ -223,7 +223,7 @@ Build 2792:
 		added PotionHooks, closes #3867, #4375 (#4614)
 		* solved merge confilct
 		
-		* improved var names & removed com.thedysian.investiture.tabs
+		* improved var names & removed tabs
 		
 		* Added spaces around !=
 		
@@ -296,7 +296,7 @@ Build 2788:
 	mezz: Add logging for data manager key registration errors (#5129)
 
 Build 2787:
-	mezz: Improve support for custom com.thedysian.com.thedysian.investiture.investiture.block path types (#5203)
+	mezz: Improve support for custom block path types (#5203)
 
 Build 2786:
 	mezz: Fix missing comments in configs created with annotations (#5189)
@@ -314,7 +314,7 @@ Build 2782:
 	mezz: Fix an ObjectHolderRef internal error message (#5214)
 
 Build 2781:
-	mezz: Implement rendering for com.thedysian.investiture.item models with emissive quads (#5047)
+	mezz: Implement rendering for item models with emissive quads (#5047)
 
 Build 2780:
 	mezz: Clean up logged mod states (#5227)
@@ -322,7 +322,7 @@ Build 2780:
 
 Build 2779:
 	mezz: Improve reflection helper methods (#4853)
-	mezz: Fix inaccurate main thread name shown in com.thedysian.com.thedysian.investiture.investiture.client log (#5078)
+	mezz: Fix inaccurate main thread name shown in client log (#5078)
 
 Build 2778:
 	mezz: Fix Baked Item models with transformations (#5241)
@@ -403,7 +403,7 @@ Build 2770:
 		ENABLE flag
 		
 		* Moves MC code into
-		net.minecraftforge.com.thedysian.com.thedysian.investiture.investiture.client.MinecraftForgeClient.getImageLayer to simplify
+		net.minecraftforge.client.MinecraftForgeClient.getImageLayer to simplify
 		patch
 		
 		* Generalize naming
@@ -431,7 +431,7 @@ Build 2765:
 	LexManos: Fix NPE on clientside entities constructed with null world (#5170)
 
 Build 2764:
-	tterrag: Fix patches from #5160 running on the com.thedysian.com.thedysian.investiture.investiture.client and causing stutter
+	tterrag: Fix patches from #5160 running on the client and causing stutter
 
 Build 2763:
 	LexManos:
