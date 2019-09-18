@@ -1,3 +1,10 @@
 {
-    "parent": "investiture:blocks/tin_stairs"
+    "parent": "investiture:block/tin_stairs",
+    "display": {
+        "thirdperson": {
+            "rotation": [ 10, -45, 170 ],
+            "translation": [ 0, 1.5, -2.75 ],
+            "scale": [ 0.1, 0.1, 0.1 ]
+        }
+    }
 }

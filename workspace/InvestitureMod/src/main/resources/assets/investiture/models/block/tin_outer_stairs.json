@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "investiture:blocks/tin_stairs",
+        "top": "investiture:blocks/tin_stairs",
+        "side": "investiture:blocks/tin_stairs"
+    }
+}

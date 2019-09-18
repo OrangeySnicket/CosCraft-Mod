@@ -1,4 +1,5 @@
 item.investiture.investiture.glass_dagger.name=Glass Dagger
+item.investiture.obsidian_axe.name=Obsidian Axe
 item.investiture.investiture.obsidian_dagger.name=Obsidian Dagger
 
 item.investiture.investiture.aluminum_ingot.name=Aluminum Ingot
@@ -53,4 +54,4 @@ tile.investiture.tin_stairs.name=Tin Stairs
 tile.investiture.zinc_block.name=Zinc Block
 
 
-itemGroup.investiture=Investiture
+itemGroup.investiture.investiture=Investiture
