@@ -19,7 +19,7 @@ http://mcforge.readthedocs.io/en/latest/gettingstarted/
 
 Step 1: Open your command-line and browse to the folder where you extracted the zip file.
 
-Step 2: Once you have a command window up in the folder that the downloaded material was placed, type:
+Step 2: Once you have a command window up in the folder that the downloaded com.thedysian.investiture.material was placed, type:
 
 Windows: "gradlew setupDecompWorkspace"
 Linux/Mac OS: "./gradlew setupDecompWorkspace"

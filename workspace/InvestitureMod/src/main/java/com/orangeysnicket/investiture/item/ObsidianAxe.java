@@ -10,5 +10,6 @@ public class ObsidianAxe extends ItemSword {
         setTranslationKey(Investiture.MODID + "." + unlocalizedName);
         setRegistryName(registryName);
         setCreativeTab(Investiture.INVESTITURE_TAB);
+
     }
 }

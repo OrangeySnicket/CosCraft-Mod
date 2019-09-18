@@ -25,3 +25,5 @@ run
 !LICENSE
 !README.*
 !.gitignore
+/crash-reports/
+stale_outputs_checked
