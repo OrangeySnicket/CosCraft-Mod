@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "investiture:iron_roofing_bottom" },
+        "half=top,variant=default": { "model": "investiture:iron_roofing_top" }
+    }
+}

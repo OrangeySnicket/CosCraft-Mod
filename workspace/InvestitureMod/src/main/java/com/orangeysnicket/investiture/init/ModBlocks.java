@@ -10,7 +10,6 @@ public class ModBlocks {
 
 	public static final AluminumBlock ALUMINUM_BLOCK = null;
 	public static final AshBlock ASH_BLOCK = null;
-	//public static final AshTiles ASH_TILES = null;
 	public static final AshTiles.Half ASH_TILES_HALF = null;
 	public static final AshTiles.Double ASH_TILES_DOUBLE = null;
 	public static final AtiumBlock ATIUM_BLOCK = null;
@@ -31,7 +30,8 @@ public class ModBlocks {
 	public static final CopperBlock COPPER_BLOCK = null;
 	public static final CopperStairs COPPER_STAIRS = null;
 	public static final DarkSteelBlock DARK_STEEL_BLOCK = null;
-	public static final IronRoofing IRON_ROOFING = null;
+	public static final IronRoofing.Half IRON_ROOFING_HALF = null;
+	public static final IronRoofing.Double IRON_ROOFING_DOUBLE = null;
 	public static final IronStairs IRON_STAIRS = null;
 	public static final LeadBlock LEAD_BLOCK = null;
 	public static final LerasiumBlock LERASIUM_BLOCK = null;
@@ -39,7 +39,8 @@ public class ModBlocks {
 	public static final PewterStairs PEWTER_STAIRS = null;
 	public static final SilverBlock SILVER_BLOCK = null;
 	public static final SteelBlock STEEL_BLOCK = null;
-	public static final Tiles TILES = null;
+	public static final Tiles.Half TILES_HALF = null;
+	public static final Tiles.Double TILES_DOUBLE = null;
 	public static final TinBlock TIN_BLOCK = null;
 	public static final TinStairs TIN_STAIRS = null;
 	public static final ZincBlock ZINC_BLOCK = null;

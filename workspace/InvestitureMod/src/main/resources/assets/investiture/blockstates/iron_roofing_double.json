@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": { "model": "investiture:iron_roofing_double" }
+    }
+}

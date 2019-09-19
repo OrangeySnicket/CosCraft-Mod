@@ -62,7 +62,7 @@ public class ModelRegistrationHandler {
 		registerModel(Item.getItemFromBlock(ModBlocks.COPPER_BLOCK), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.COPPER_STAIRS), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.DARK_STEEL_BLOCK), 0);
-		registerModel(Item.getItemFromBlock(ModBlocks.IRON_ROOFING), 0);
+		registerModel(ItemSlab.getItemFromBlock(ModBlocks.IRON_ROOFING_HALF), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.IRON_STAIRS), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.LEAD_BLOCK), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.LERASIUM_BLOCK), 0);
@@ -70,7 +70,7 @@ public class ModelRegistrationHandler {
 		registerModel(Item.getItemFromBlock(ModBlocks.PEWTER_STAIRS), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.SILVER_BLOCK), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.STEEL_BLOCK), 0);
-		registerModel(Item.getItemFromBlock(ModBlocks.TILES), 0);
+		registerModel(ItemSlab.getItemFromBlock(ModBlocks.TILES_HALF), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.TIN_BLOCK), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.TIN_STAIRS), 0);
 		registerModel(Item.getItemFromBlock(ModBlocks.ZINC_BLOCK), 0);
