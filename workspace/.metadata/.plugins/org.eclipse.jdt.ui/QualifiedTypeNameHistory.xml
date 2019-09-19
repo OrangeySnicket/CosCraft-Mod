@@ -12,4 +12,9 @@
 <fullyQualifiedTypeName name="net.minecraft.block.state.IBlockState"/>
 <fullyQualifiedTypeName name="block.BronzeBlock"/>
 <fullyQualifiedTypeName name="init.ModBlocks"/>
+<fullyQualifiedTypeName name="com.orangeysnicket.investiture.block.AshTiles.Half"/>
+<fullyQualifiedTypeName name="com.orangeysnicket.investiture.block.AshTiles.Double"/>
+<fullyQualifiedTypeName name="com.orangeysnicket.investiture.material.InvestitureMaterials"/>
+<fullyQualifiedTypeName name="com.orangeysnicket.investiture.Investiture"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemSlab"/>
 </qualifiedTypeNameHistroy>
