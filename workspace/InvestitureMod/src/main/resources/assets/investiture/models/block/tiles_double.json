@@ -1,8 +1,7 @@
 {
-    "parent": "block/half_slab",
+    "parent": "block/cube_column",
     "textures": {
-        "bottom": "investiture:blocks/tiles",
-        "top": "investiture:blocks/tiles",
+        "end": "investiture:blocks/tiles",
         "side": "investiture:blocks/tiles"
     }
 }

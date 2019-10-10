@@ -93,6 +93,7 @@ public abstract class AshTiles extends BlockSlab {
 
 		public Double(String name) {
 			super(name);
+			this.setTranslationKey(Investiture.MODID + "." + name);
 		}
 
 		@Override
@@ -113,6 +114,7 @@ public abstract class AshTiles extends BlockSlab {
 
 		public Half(String name) {
 			super(name);
+			this.setTranslationKey(Investiture.MODID + "." + name);
 		}
 
 		@Override

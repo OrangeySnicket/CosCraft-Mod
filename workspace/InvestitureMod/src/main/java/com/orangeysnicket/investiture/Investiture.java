@@ -14,7 +14,7 @@ public class Investiture {
 
 	public static final String MODID = "investiture";
 	public static final String NAME = "Investiture";
-	public static final String VERSION = "0.0.4";
+	public static final String VERSION = "0.0.5";
 	public static final String MC_VERSION = "[1.12.2]";
 	public static final CreativeTabs INVESTITURE_TAB = new InvestitureTab();
 		

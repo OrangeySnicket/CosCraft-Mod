@@ -1,8 +1,7 @@
 {
-    "parent": "block/half_slab",
+    "parent": "block/cube_column",
     "textures": {
-        "bottom": "investiture:blocks/iron_roofing",
-        "top": "investiture:blocks/iron_roofing",
-        "side": "investiture:blocks/iron_roofing"
+       "end": "investiture:blocks/iron_roofing",
+       "side": "investiture:blocks/iron_roofing"
     }
 }
